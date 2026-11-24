@@ -1,0 +1,31 @@
+id,nome,categoria,preco_custo,preco_venda
+1,Leite Integral 1L,Laticínios,4.20,5.99
+2,Café 500g,Mercearia,18.50,24.90
+3,Arroz 5kg,Mercearia,19.00,26.90
+4,Feijão 1kg,Mercearia,7.80,11.50
+5,Óleo de Soja 900ml,Mercearia,6.50,9.90
+6,Açúcar 1kg,Mercearia,3.20,4.80
+7,Macarrão Espaguete 500g,Mercearia,4.50,6.90
+8,Manteiga 200g,Laticínios,8.90,12.90
+9,Queijo Mussarela 150g,Laticínios,12.50,18.90
+10,Iogurte Natural 170g,Laticínios,2.80,4.20
+11,Frango Congelado 1kg,Açougue,14.90,22.90
+12,Carne Moída 500g,Açougue,18.50,26.90
+13,Linguiça Toscana 500g,Açougue,15.90,22.50
+14,Ovos 12 unidades,Mercearia,8.90,12.90
+15,Pão de Forma Integral,Padaria,7.50,10.90
+16,Biscoito Cream Cracker 200g,Mercearia,3.80,5.80
+17,Achocolatado 400g,Mercearia,9.90,14.50
+18,Leite Condensado 395g,Mercearia,5.50,7.90
+19,Creme de Leite 200g,Mercearia,3.20,4.80
+20,Milho Verde 170g,Mercearia,2.50,3.80
+21,Ervilha 170g,Mercearia,2.80,4.20
+22,Tomate Pelado 400g,Mercearia,4.50,6.90
+23,Atum Sólido 170g,Mercearia,6.90,9.90
+24,Sardinha 125g,Mercearia,3.80,5.50
+25,Óleo de Milho 900ml,Mercearia,7.20,10.50
+26,Vinagre de Álcool 500ml,Mercearia,2.20,3.50
+27,Sal Refinado 1kg,Mercearia,1.80,2.90
+28,Farinha de Trigo 1kg,Mercearia,4.20,6.20
+29,Fermento em Pó 100g,Mercearia,2.50,3.80
+30,Chocolate em Pó 200g,Mercearia,8.50,12.50
